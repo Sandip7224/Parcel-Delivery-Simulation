@@ -1,0 +1,11 @@
+Package Index,Assigned Agent ID,Warehouse ID,Warehouse X,Warehouse Y,Destination X,Destination Y,Distance: Agent to Warehouse,Distance: Warehouse to Destination,Trip Distance
+1,A3,W1,54,13,48,3,16.16,11.66,27.82
+2,A4,W5,5,89,0,90,65.38,5.1,70.47
+3,A4,W5,5,89,5,81,5.1,8.0,13.1
+4,A3,W1,54,13,50,16,11.66,5.0,16.66
+5,A3,W3,40,17,44,19,10.05,4.47,14.52
+6,A3,W1,54,13,47,4,11.66,11.4,23.06
+7,A4,W5,5,89,9,80,8.0,9.85,17.85
+8,A3,W3,40,17,47,27,14.76,12.21,26.97
+9,A4,W2,45,95,49,90,39.0,6.4,45.4
+10,A4,W2,45,95,36,100,6.4,10.3,16.7
